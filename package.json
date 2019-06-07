@@ -5,7 +5,7 @@
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "2.1.8"
+    "react-scripts": "^3.0.1"
   },
   "scripts": {
     "start": "react-app-rewired start",
@@ -24,7 +24,7 @@
   ],
   "devDependencies": {
     "babel-plugin-module-resolver": "^3.2.0",
-    "customize-cra": "^0.2.12",
-    "react-app-rewired": "^2.1.1"
+    "customize-cra": "^0.2.13",
+    "react-app-rewired": "^2.1.3"
   }
 }
